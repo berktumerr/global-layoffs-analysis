@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Global Layoffs Analysis
 
 ## Project Objective
@@ -35,3 +36,7 @@ Analyze global layoffs between 2020 and 2026 to identify trends across companies
 - Data Visualization
 - Time Series Analysis
 - Business Insight Generation
+=======
+# global-layoffs-analysis
+Data analysis project exploring global layoff trends using Python, Pandas and Matplotlib.
+>>>>>>> 6d1fec64e0f9bbf9982722cc4ab972b39afbc5bb
